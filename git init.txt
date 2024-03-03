@@ -1,0 +1,4 @@
+git init
+touch .gitignore (add node_modules to it)
+
+npm init -y
